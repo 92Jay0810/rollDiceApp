@@ -1,4 +1,4 @@
-package com.example.homework1
+package com.example.rollDiceAp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
